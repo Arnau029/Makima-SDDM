@@ -1,0 +1,7 @@
+Name=Makima-SDDM
+Type=sddm-theme
+Version=1.1
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Telegram=Asher029
